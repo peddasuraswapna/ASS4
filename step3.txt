@@ -1,0 +1,10 @@
+Funnel Definition:
+
+Event 1: "Favorite Item"
+Event 2: "Complete Purchase"
+Timeframe: June 2022
+User segment: Brazil users
+Item ID filter: Item_ID = 90
+Conversion window: 1 day
+Analysis Result: The conversion rate from "Favorite Item" to "Complete Purchase" for Item_ID = 90, for Brazilian users, in June 2022 is calculated to be 21.4%.
+

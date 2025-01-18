@@ -1,0 +1,43 @@
+
+
+
+{
+  "chart": {
+    "type": "funnel",
+    "data": [
+      {
+        "event": "Favorite Item",
+        "filters": [
+          {
+            "type": "event",
+            "event": "Favorite Item",
+            "operator": "EQ",
+            "value": "90"
+          },
+          {
+            "type": "country",
+            "country": "Brazil"
+          }
+        ]
+      },
+      {
+        "event": "Complete Purchase",
+        "filters": [
+          {
+            "type": "event",
+            "event": "Complete Purchase",
+            "operator": "EQ",
+            "value": "90"
+          },
+          {
+            "type": "country",
+            "country": "Brazil"
+          }
+        ]
+      }
+    ],
+    "conversionWindow": 1,
+    "timeRange": "June 2022"
+  }
+}
+
